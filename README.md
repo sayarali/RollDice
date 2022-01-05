@@ -1,3 +1,3 @@
-# RollDice
+# Simple Rolling Dice Game
 
-Simple Rolling Dice Game
+
