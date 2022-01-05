@@ -9,4 +9,4 @@ It's a simple  dice game for two players :)
 ![2](https://user-images.githubusercontent.com/48160945/148261247-b19c3162-0c47-408a-aefa-b267f5ea860a.png)
 
 If you want to try it, you can download it here
-https://github.com/sayarali/RollDice/blob/master/app-debug.apk
+https://github.com/sayarali/RollDice/raw/master/app-debug.apk
