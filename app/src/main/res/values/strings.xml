@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="roll_dice">Roll The Dice</string>
+    <string name="dice_one">dice one</string>
+    <string name="dice_two">dice two</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="how_to_text">It\' simple, bigger dice wins!</string>
+</resources>
