@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="roll_dice">Roll The Dice</string>
+    <string name="roll_dice">Roll The Dices</string>
     <string name="dice_one">dice one</string>
     <string name="dice_two">dice two</string>
     <string name="how_to_play">How to play:</string>
-    <string name="how_to_text">It\'s simple, bigger dice wins!</string>
+    <string name="how_to_text">It\'s simple, roll big dices to win!</string>
     <string name="start">Start</string>
 </resources>
