@@ -1,3 +1,3 @@
-# Simple Rolling Dice Game
+# Simple Dice Game
 
 
