@@ -28,7 +28,7 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:src="@drawable/dice_6" />
+            android:src="@drawable/dice_6" />
 
         <ImageView
             android:id="@+id/dice_two_image"
@@ -40,7 +40,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toEndOf="@+id/dice_one_image"
-            tools:src="@drawable/dice_2" />
+            android:src="@drawable/dice_6" />
 
         <Button
             android:id="@+id/player_one_button"
